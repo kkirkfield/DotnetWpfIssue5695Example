@@ -1,6 +1,6 @@
 # DotnetWpfIssue5695Example
 
-This is a sample project to reproduce the following issue: ![https://github.com/dotnet/wpf/issues/5695](https://github.com/dotnet/wpf/issues/5695)
+This is a sample project to reproduce the following issue: [https://github.com/dotnet/wpf/issues/5695](https://github.com/dotnet/wpf/issues/5695)
 
 When ```<Nullable>enable</Nullable>``` is used WPF source generators fail.
 
