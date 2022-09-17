@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B139A8FD-7450-43FE-B606-471D545A2231}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetWpfIssue5695Example", "src\DotnetWpfIssue5695Example.csproj", "{BE99F76F-0D3F-444B-A655-2A72B5F19421}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20E3A0C3-137E-4C5B-9B23-E35F78280EC4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		global.json = global.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE99F76F-0D3F-444B-A655-2A72B5F19421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE99F76F-0D3F-444B-A655-2A72B5F19421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE99F76F-0D3F-444B-A655-2A72B5F19421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE99F76F-0D3F-444B-A655-2A72B5F19421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE99F76F-0D3F-444B-A655-2A72B5F19421} = {B139A8FD-7450-43FE-B606-471D545A2231}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C4CA332-B08B-42A2-81C8-41DDDC0FD26C}
+	EndGlobalSection
+EndGlobal
